@@ -11,7 +11,7 @@ Please refer to https://www.trotsenko.com.ua for the description of my invention
 
 ## Step 0. Build spectrogram -> pictures converter
 
-    go get github.com/bohdantrotsenko/spectrum
+    go install github.com/bohdantrotsenko/spectrum@latest
 
 ## Step 1. Prepare data
 
